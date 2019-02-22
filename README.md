@@ -1,2 +1,2 @@
 # python
-python 联系demo
+python 练习demo
