@@ -25,3 +25,5 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pack_name[mysql]
 ```
 
 === 注意在linux下不要去卸载python27，很多软件基于python27的，安装python37后直接用python3执行指令，python指令对应是python2。pip3同理对应python3，默认pip是对应python27.必要时可以设置软连接 ln -s old new.
+
+- linux 安装https://www.linuxidc.com/Linux/2018-07/153286.htm
