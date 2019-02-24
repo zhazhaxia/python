@@ -23,3 +23,5 @@ python3.7
 用清华的源
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pack_name[mysql]
 ```
+
+=== 注意在linux下不要去卸载python27，很多软件基于python27的，安装python37后直接用python3执行指令，python指令对应是python2。pip3同理对应python3，默认pip是对应python27.
