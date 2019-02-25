@@ -36,4 +36,10 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pack_name[mysql]
 
 - 安装https://www.jianshu.com/p/21b758541825
 
-- 教程 https://morvanzhou.github.io/   鸢尾花demo：https://www.jianshu.com/p/cd5a929bec33
+- 教程 
+
+```
+https://morvanzhou.github.io/   
+鸢尾花demo：https://www.jianshu.com/p/cd5a929bec33  
+https://blog.csdn.net/u014248127/article/details/78885180
+```
