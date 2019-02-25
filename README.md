@@ -29,3 +29,11 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pack_name[mysql]
 - linux 安装https://www.linuxidc.com/Linux/2018-07/153286.htm
 
 - python 模块 https://blog.csdn.net/xuqi7/article/details/78757548/
+
+### sklearn
+
+- 官方文档https://scikit-learn.org/stable/index.html
+
+- 安装https://www.jianshu.com/p/21b758541825
+
+- 教程 https://morvanzhou.github.io/   鸢尾花demo：https://www.jianshu.com/p/cd5a929bec33
