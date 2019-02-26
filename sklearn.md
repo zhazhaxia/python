@@ -15,3 +15,9 @@ window下下载easy_install到https://pypi.python.org/pypi/setuptools/下周压�
 ```
 鸢尾花https://blog.csdn.net/xiexf189/article/details/72518860
 ```
+
+- numpy
+
+```
+教程https://www.jianshu.com/p/a260a8c43e44
+```
