@@ -12,5 +12,9 @@ http://www.spiderpy.cn/blog/detail/34
 压缩近邻法
 
 马氏距离https://www.cnblogs.com/mengmengmiaomiao/p/7600002.html
-协方差矩阵
+简单解释https://blog.csdn.net/AffectiveComputing/article/details/82763011
+计算协方差矩阵https://www.cnblogs.com/mengmengmiaomiao/p/7600002.html
+为什么用马氏距离https://blog.csdn.net/panglinzhuo/article/details/77801869
+马氏距离PPThttps://wenku.baidu.com/view/629b9cd443323968001c9257.html
+空间中的几种距离计算公式https://blog.csdn.net/Gamer_gyt/article/details/78037780
 ```
