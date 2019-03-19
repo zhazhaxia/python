@@ -6,7 +6,11 @@ knn的python代码实现https://zhuanlan.zhihu.com/p/30793832
 
 knn加权处理，高斯函数https://www.cnblogs.com/bigmonkey/p/7387943.html
 
+k值选取，交叉验证法
+https://blog.csdn.net/sundreamoon/article/details/79874764
+
 优化，一般用在模式识别或者决策的最后阶段，去噪后的数据尤其有效
+https://blog.csdn.net/hyf_1967/article/details/53410399
 http://www.spiderpy.cn/blog/detail/34
 剪辑近邻法
 压缩近邻法
